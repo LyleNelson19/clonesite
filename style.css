@@ -1,0 +1,20 @@
+#row1header{
+height:50px;
+width:100%;
+background-color: green;
+}
+#titletext{
+color: white
+}
+#row2header{
+height: 900px;
+width:100%;
+background-image:url("https://www.annagorin.com/blog/wp-content/uploads/2014/10/mccall-payette-lake-autumn_009.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+#hooktext{
+color: white;
+font-size:200px;
+}
