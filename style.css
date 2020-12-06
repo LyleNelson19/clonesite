@@ -4,7 +4,7 @@ width:100%;
 background-color: green;
 }
 #titletext{
-color: white
+color: white;
 }
 #row2header{
 height: 900px;
@@ -13,8 +13,17 @@ background-image:url("https://www.annagorin.com/blog/wp-content/uploads/2014/10/
 background-size:cover;
 background-repeat:no-repeat;
 }
-
-#hooktext{
+#nestedrow{
+background-color: rgb(0, 0, 83);
+height:350px;
+width: 95%;
+}
+#input{
+font-size: 95%;
+}
+#headertext{
 color: white;
-font-size:200px;
+}
+#headersubtext{
+color: white
 }
