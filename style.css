@@ -27,3 +27,36 @@ color: white;
 #headersubtext{
 color: white
 }
+#row1{
+height:300px;
+width: 100%;
+position: relative;
+background-color: blue;
+}
+#row1col1{
+height: 300px;
+}
+#row1col2{
+position: absolute;
+height:350px;
+background-color: green;
+}
+#text1{
+color: white;
+}
+#subtext1{
+color: white;
+}
+#row2{
+height: 1000px;
+width: 100%;
+background-color:black;
+}
+#row3{
+height: 400px;
+width: 100%;
+background-color:blue;
+}
+#row2col1{
+background-image:url("https://images-na.ssl-images-amazon.com/images/I/81VGHFQLU7L._AC_SL1500_.jpg;");
+}
